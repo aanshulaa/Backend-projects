@@ -1,0 +1,1 @@
+During a cozy winter break, I indulged in creating adorable Python backend projects while snuggled up in a fluffy blanket and sipping hot chocolate. These projects showcase my passion for Python development and backend programming. Explore the magic of Python with these cute and functional projects!
